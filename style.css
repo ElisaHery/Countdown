@@ -1,0 +1,11 @@
+body {background: #000000; display: flex; flex-direction: column;
+  align-items: center;}
+
+.CountdownContainer {text-align: center;}
+
+.styleCompteur {color: #BDBDBD; font-family: 'Roboto', sans-serif; font-size: 4em;}
+
+td {width: 120px;}
+
+
+.ecrit {color: #BDBDBD; font-family: 'Roboto', sans-serif; font-size: 1.5em;}
